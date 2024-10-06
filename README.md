@@ -22,7 +22,7 @@ yes | pkg install libjansson wget nano
 ```
 mkdir ccminer && cd ccminer
 wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/ccminer
-wget 
+wget https://raw.githubusercontent.com/Alchidess/Mining/refs/heads/generic/config.json
 wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/start.sh
 chmod +x ccminer start.sh
 ```

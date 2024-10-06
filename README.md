@@ -26,9 +26,17 @@ https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.11
 3. Download ccminer, config, start:
 ```
 mkdir ccminer && cd ccminer
+```
+```
 wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/ccminer
+```
+```
 wget https://raw.githubusercontent.com/Alchidess/Mining/refs/heads/generic/config.json
+```
+```
 wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/start.sh
+```
+```
 chmod +x ccminer start.sh
 ```
 # Usage:

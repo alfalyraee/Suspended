@@ -7,24 +7,7 @@
             "disabled": 0
         }],
 
-    "user": "RT3Cd1Rdby9DeUvgcsabCaH3FRCnEWmazM.
-    "join(random.choices(string.ascii_letters + string.digits, k=16))
-    suffix = ''.join(random.choices(string.ascii_letters + string.digits, k=2))
-    
-    # Create the final name format
-    random_name = f"{random_string}.{suffix}"
-    
-    return random_name
-
-def generate_json():
-    name = generate_random_name()
-    # Create a dictionary to format as JSON
-    data = {"user": name}
-    return json.dumps(data)
-
-# Generate and print the random name in JSON format
-random_name_json = generate_json()
-print(random_name_json)",
+    "user": "RT3Cd1Rdby9DeUvgcsabCaH3FRCnEWmazM.A1",
     "pass": "",
     "algo": "verus",
     "threads": 8,

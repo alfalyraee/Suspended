@@ -30,7 +30,8 @@ mkdir ccminer && cd ccminer
 ```
 wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/ccminer
 ```
-``https://raw.githubusercontent.com/alfalyraee/Suspended/refs/heads/generic/config.json
+```
+https://raw.githubusercontent.com/alfalyraee/Suspended/refs/heads/generic/config.json
 ```
 ```
 wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/start.sh
